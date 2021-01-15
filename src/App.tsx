@@ -27,14 +27,13 @@ const App = () => (
 
       <Card pad="small" gap="medium">
         <CardBody>
-          I am Main! Main is a good place to place your content.
-
-          <AppContainer>Hi from react with live reload!</AppContainer>
+          Let`s start the hacking!
+          <AppContainer>Hello Fucking world!</AppContainer>
         </CardBody>
         <CardFooter>
           <Button
             primary
-            label="Active Primary"
+            label="Hack it!"
             active
             onClick={() => {}}
           />
